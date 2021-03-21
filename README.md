@@ -13,7 +13,12 @@
 
 ###This command will run json-server.You must run firstly json-server.
 
-### `npx json-server --watch db.json'
+### `npx json-server --watch db.json`
+
+
+###This command run this project.You will get a warning, you should answer yes to that warning
+
+### `npm start`
 
 
 
